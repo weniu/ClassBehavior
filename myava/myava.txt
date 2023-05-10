@@ -1,0 +1,1 @@
+"lookup"\n"bow"\n"turn"\n"talk"\n"stand"\n"handsup"\n"lie" 
